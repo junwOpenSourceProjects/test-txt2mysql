@@ -1,0 +1,3 @@
+# Txt to MySQL Dependencies
+
+mysql-connector-python>=8.0.0
